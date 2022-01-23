@@ -71,10 +71,17 @@ body { background-color:#242424; padding:0;  margin: 0; }
 #container_18a61349 { vertical-align: top; position:relative; display: inline-block; width:33%; min-height:150px; background:none;  }
 #container_18a61349_padding { margin: 10px; display: block;  }
 #img_594abb12 { vertical-align: bottom; position:relative; display: inline-block; width:100%; background:none;  }
-#youtube_6fe91bc7 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:52%; height:293px; background-color:#D1D1D1; background-image: url(rc_images/flower_2079.jpg); background-position:top left; background-size:cover; border: 1px solid #A0A0A0;  }
-#container_27649c22 { vertical-align: top; position:relative; display: inline-block; width:99%; min-height:29px; background:none;  }
-#container_27649c22_padding { margin: 10px; display: block;  }
+#video_5e6975ff { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:91%; background-color:#D1D1D1; border: 1px solid #A0A0A0;  }
+#video_5e6975ff { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:91%; background-color:#D1D1D1; border: 1px solid #A0A0A0;  }
 #gallery_490d75da { overflow:hidden; box-sizing: border-box; vertical-align: bottom; border-radius: 8px; position:relative; display: inline-block; width:100%;  }
+#container_883c02f { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
+#container_883c02f_padding { margin: 10px; display: block;  }
+#container_6e3a76ce { vertical-align: top; position:relative; display: inline-block; width:33%; min-height:150px; background:none;  }
+#container_6e3a76ce_padding { margin: 10px; display: block;  }
+#container_3ba4124b { vertical-align: top; position:relative; display: inline-block; width:33%; min-height:150px; background:none;  }
+#container_3ba4124b_padding { margin: 10px; display: block;  }
+#container_24539a3a { vertical-align: top; position:relative; display: inline-block; width:33%; min-height:150px; background:none;  }
+#container_24539a3a_padding { margin: 10px; display: block;  }
 #container_489b3d8 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; max-width:1200px; background-color:#FFA925;  }
 #container_489b3d8_padding { margin: 20px; display: block;  }
 .textstyle18 { font-size:12pt; font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif; color:#000000;  }
@@ -92,6 +99,9 @@ body { background-color:#242424; padding:0;  margin: 0; }
 		#container_7d48d734 { width:100%;  }
 		#container_491a62e6 { width:100%;  }
 		#container_18a61349 { width:100%;  }
+		#container_6e3a76ce { width:100%;  }
+		#container_3ba4124b { width:100%;  }
+		#container_24539a3a { width:100%;  }
 }
 @media only screen and (max-width: 450px)
 {
