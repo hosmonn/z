@@ -71,6 +71,9 @@ body { background-color:#242424; padding:0;  margin: 0; }
 #container_18a61349 { vertical-align: top; position:relative; display: inline-block; width:33%; min-height:150px; background:none;  }
 #container_18a61349_padding { margin: 10px; display: block;  }
 #img_594abb12 { vertical-align: bottom; position:relative; display: inline-block; width:100%; background:none;  }
+#youtube_6fe91bc7 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:52%; height:293px; background-color:#D1D1D1; background-image: url(rc_images/flower_2079.jpg); background-position:top left; background-size:cover; border: 1px solid #A0A0A0;  }
+#container_27649c22 { vertical-align: top; position:relative; display: inline-block; width:99%; min-height:29px; background:none;  }
+#container_27649c22_padding { margin: 10px; display: block;  }
 #gallery_490d75da { overflow:hidden; box-sizing: border-box; vertical-align: bottom; border-radius: 8px; position:relative; display: inline-block; width:100%;  }
 #container_489b3d8 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; max-width:1200px; background-color:#FFA925;  }
 #container_489b3d8_padding { margin: 20px; display: block;  }
