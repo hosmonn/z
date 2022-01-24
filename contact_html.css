@@ -1,3 +1,4 @@
+h1, h2, h3 { margin:0; padding:0; font-weight:normal; font-style:normal; }
 a { color:#5D5D9E; } 
 a:visited { color:#5D5D9E; } 
 a:active { color:#5C615E; } 
@@ -41,6 +42,14 @@ body { background-color:#242424; padding:0;  margin: 0; }
 .textstyle17 { font-size:14pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; line-height: 1.5;  }
 #container_16e8edc5 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; max-width:1200px; background-color:#FFFFFF;  }
 #container_16e8edc5_padding { margin: 20px; display: block;  }
+#container_569c0aec { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
+#container_569c0aec_padding { margin: 10px; display: block;  }
+#container_5be0ad15 { vertical-align: top; position:relative; display: inline-block; width:50%; min-height:150px; background:none;  }
+#container_5be0ad15_padding { margin: 10px; display: block;  }
+#img_144c238e { vertical-align: bottom; border-radius: 0px 30px 0px 30px; position:relative; display: inline-block; width:94%; background:none;  }
+#container_4a4b29ab { vertical-align: top; position:relative; display: inline-block; width:50%; min-height:292px; background:none;  }
+#container_4a4b29ab_padding { margin: 10px; display: block;  }
+#heading_6933d5ab { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:24pt; font-family:Arial, Helvetica, sans-serif; color:#000000; text-align:left;  }
 #container_8980bcc { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; max-width:1200px; background-color:#FFA925;  }
 #container_8980bcc_padding { margin: 20px; display: block;  }
 .textstyle18 { font-size:12pt; font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif; color:#000000;  }
@@ -55,4 +64,9 @@ body { background-color:#242424; padding:0;  margin: 0; }
 		#container_54755a93 { width:100%;  }
 		#container_42787e73 { width:100%;  }
 		#container_1da27e3 { width:100%;  }
+}
+@media only screen and (max-width: 400px)
+{
+		#container_5be0ad15 { width:100%;  }
+		#container_4a4b29ab { width:100%;  }
 }
