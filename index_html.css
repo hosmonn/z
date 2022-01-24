@@ -6,7 +6,7 @@ a:hover { color:#B2B3B4; }
 #button_6bc5fd87 { vertical-align: bottom; position:relative; display: inline-block; width:150px; height:40px; background-color:#FFFFFF;  }
 #button_6bc5fd87:hover { background-color:#C0C0C0;  }
 #button_6bc5fd87:hover span { color:#525252; }
-#button_1effd7ca { vertical-align: bottom; position:relative; display: inline-block; width:150px; height:40px; background-color:#FFFFFF;  }
+#button_1effd7ca { vertical-align: bottom; position:relative; display: inline-block; width:151px; height:40px; background-color:#FFFFFF;  }
 #button_1effd7ca:hover { background-color:#C0C0C0;  }
 #button_1effd7ca:hover span { color:#525252; }
 #button_60691e67 { vertical-align: bottom; position:relative; display: inline-block; width:150px; height:40px; background-color:#FFFFFF;  }
@@ -51,7 +51,7 @@ body { background-color:#242424; padding:0;  margin: 0; }
 .vcenterstyle1 { display: table; width: 100%; height: 100%; }
 .vcenterstyle2 { display: table-cell; vertical-align: middle; }
 .textstyle9 { font-size:12pt; font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif; color:#000000; font-weight:bold;  }
-#container_3205b59a { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; max-width:1200px; background-color:#242342; background-image: url(rc_images/restaurant_dark_glass.jpg); background-position:top left; background-size:cover;  }
+#container_3205b59a { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; max-width:1200px; background-color:#0000FF; background-image: url(rc_images/restaurant_dark_glass.jpg); background-position:top left; background-size:cover;  }
 #container_3205b59a_padding { margin: 20px; display: block;  }
 #container_12e144f2 { vertical-align: top; position:relative; display: inline-block; width:43%; min-height:316px; min-width:300px; background:none;  }
 #container_12e144f2_padding { margin: 10px; display: block;  }
@@ -65,7 +65,7 @@ body { background-color:#242424; padding:0;  margin: 0; }
 .textstyle17 { font-size:14pt; font-family:Arial, Helvetica, sans-serif; color:#FFFFFF; line-height: 1.5;  }
 #container_6a0088e0 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; max-width:1200px; background-color:#FFFFFF;  }
 #container_6a0088e0_padding { margin: 20px; display: block;  }
-#menu_53e9a3ab { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:11%; height:38px; text-align:left; background-color:#8080FF; background: linear-gradient(to bottom, #FFFFFF, #8080FF); border: 1px solid #A0A0A0;  }
+#menu_53e9a3ab { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:16%; height:38px; text-align:left; background-color:#8080FF; background: linear-gradient(to bottom, #FFFFFF, #8080FF); border: 1px solid #A0A0A0;  }
 .menuholder1 { position: relative; overflow: hidden; width: 100%; height: 100%; }
 .style1 { position:absolute; width:37px; height:38px; left:10px;  }
 .style2 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:33px;  }
