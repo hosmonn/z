@@ -21,10 +21,6 @@ a:hover { color:#B2B3B4; }
 #gallery_56357dc7 div.galleryimgcontainer img {  width: 100%;  } 
 @media only screen and (max-width:800px) { #gallery_56357dc7 div.galleryimgcontainer { width: 50%; } } 
 @media only screen and (max-width:600px) { #gallery_56357dc7 div.galleryimgcontainer { width: 100%; } } 
-#gallery_42f466dc div.galleryimgcontainer { box-sizing: border-box; vertical-align: middle; display: inline-block; width: 33%; height: auto; padding: 10px;  } 
-#gallery_42f466dc div.galleryimgcontainer img {  width: 100%;  } 
-@media only screen and (max-width:400px) { #gallery_42f466dc div.galleryimgcontainer { width: 50%; } } 
-@media only screen and (max-width:100px) { #gallery_42f466dc div.galleryimgcontainer { width: 100%; } } 
 body { background-color:#BDBCD3; padding:0;  margin: 0; }
 .textstyle1 { text-align:center; }
 #container_73cb5bf { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; max-width:1200px; background:none;  }
@@ -65,10 +61,6 @@ body { background-color:#BDBCD3; padding:0;  margin: 0; }
 #container_6a0088e0 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; max-width:1200px; background-color:#FFFFFF;  }
 #container_6a0088e0_padding { margin: 20px; display: block;  }
 #gallery_56357dc7 { overflow:hidden; vertical-align: bottom; position:relative; display: inline-block; width:80%;  }
-#container_61aa482 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:457px; background:none;  }
-#container_61aa482_padding { margin: 10px; display: block;  }
-.textstyle13 { font-size:28pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
-#gallery_42f466dc { overflow:hidden; vertical-align: bottom; position:relative; display: inline-block; width:80%; min-height:268px;  }
 #container_489b3d8 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; max-width:1200px; background-color:#6764B9;  }
 #container_489b3d8_padding { margin: 20px; display: block;  }
 #container_31d6b3e8 { vertical-align: top; position:relative; display: inline-block; width:33%; min-height:150px; background:none;  }
